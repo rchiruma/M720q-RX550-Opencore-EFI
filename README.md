@@ -1,5 +1,5 @@
-# M720q-RX550-Opencore-EFI
-M720q i7-9700 RX550 Opencore EFI Sequoia
+# Lenovo Tiny M720q-RX550-Opencore-EFI
+Lenovo M720q Tiny i7-9700 RX550 Opencore EFI Sequoia
 
 
 i7-9700 
