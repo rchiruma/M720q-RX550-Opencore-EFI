@@ -9,3 +9,5 @@ RX 550 4GB
 iGPU in headless mode,
 
 Broadcom BCM94360NG Wifi
+
+Make sure to apply "OpenCore Legacy Patcher" post install of Sequoia to enable wifi
